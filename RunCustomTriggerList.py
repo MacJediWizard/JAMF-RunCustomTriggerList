@@ -12,7 +12,7 @@
 #	This script was built to run a comma seperated list of custom triggers from
 #	JAMF VAriable $4.
 #	
-#	This allowes you to reuse policies with custom triggere but not have to maintain
+#	This allowes you to reuse policies with custom triggers but not have to maintain
 #	more than one policy.
 #
 ##########################################################################################
